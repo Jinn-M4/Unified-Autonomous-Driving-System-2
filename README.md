@@ -1,1 +1,1 @@
-## gpt-based work
+## Gemini-based work
